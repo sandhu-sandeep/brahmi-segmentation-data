@@ -1,0 +1,3 @@
+The folder contains the images used in training the UNet for Brahmi Image segmentation.
+Extract the contents of the 7z file directly in this folder.
+The names of the files are similar to the corresponding masks in all_masks folder
