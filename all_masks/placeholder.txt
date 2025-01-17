@@ -1,1 +1,3 @@
-
+The folder contains ZIP file 'all_masks.7z' containing the brahmi segmented image masks.
+Extract the content of the 7z file directly in the all_masks folder. 
+The names of the files will correspond to the files in the all_images folder
